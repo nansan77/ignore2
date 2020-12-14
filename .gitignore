@@ -3,3 +3,4 @@ tmp/*
 *.DS
 *_backup
 *.db
+.DS_Store
