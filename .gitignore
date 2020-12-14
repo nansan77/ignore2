@@ -1,0 +1,5 @@
+*_old
+tmp/*
+*.DS
+*_backup
+*.db
